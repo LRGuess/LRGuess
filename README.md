@@ -1,5 +1,11 @@
 ## Hi there 👋
+Name's Liam, and I'm a hobbyist programmer 💻 and robot builder 🤖!  
+I do:  
+--> Web dev in **React** and **Raw HTML, CSS, and JS**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrguess&show_icons=true&title_color=9bc7a7&theme=onedark&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrguess&layout=compact)
 <!--
 **LRGuess/LRGuess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
