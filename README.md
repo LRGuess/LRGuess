@@ -1,9 +1,7 @@
-<script src="https://kit.fontawesome.com/67c64873e1.js" crossorigin="anonymous">  </script>
-
 ## Hi there 👋
 Name's Liam, and I'm a hobbyist programmer 💻 and robot builder 🤖!  
 I program in:  
---> Web dev in <i class="fa-brands fa-react"></i>**React** and **Raw HTML, CSS, and JS**  
+  --> Web dev in <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/react.svg" width="20" height="20"> **React** and **Raw <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" width="20" height="20"> HTML, <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/css.svg" width="20" height="20"> CSS, and <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="20" height="20"> JS**  
 --> **C#** with **Unity Game Engine**  
 --> **Python** for fun :)  
 --> First Tech Challange & First Robotics Competition **Robots** in **Java**  
