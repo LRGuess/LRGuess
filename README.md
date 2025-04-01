@@ -7,11 +7,11 @@ I program in:
 --> First Tech Challange & First Robotics Competition **Robots** in **Java**  
 --> Arduino sideprojects and libs in **C++**  
 
-_I enjoy playing 🌲 Rain World and 🔫 Ghost Recon Breakpoint, as well as other titles!  
-_My primairy username is BigSaltyBeans! LRGuess is only for Github.  
-_Currently part of FTC team 22212 Gusto Robotics and FRC 4421 Forge, although I have been with many other teams in the past.  
-_I CAD in Fusion, Inventor, Revit, and some OnShape.  
-_Learning to create, train, and run local AI's!  
+I enjoy playing 🌲 Rain World and 🔫 Ghost Recon Breakpoint, as well as other titles!  
+My primairy username is BigSaltyBeans! LRGuess is only for Github.  
+Currently part of FTC team 22212 Gusto Robotics and FRC 4421 Forge, although I have been with many other teams in the past.  
+I CAD in Fusion, Inventor, Revit, and some OnShape.  
+Learning to create, train, and run local AI's!  
 
 ## Current projects:
 ### Creating:
@@ -29,7 +29,6 @@ _Learning to create, train, and run local AI's!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrguess&layout=compact&theme=onedark&title_color=9bc7a7" align="center">
 </div>
 
-### Socials:
 
 <!--
 **LRGuess/LRGuess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
