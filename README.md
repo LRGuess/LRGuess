@@ -22,7 +22,8 @@ Learning to create, train, and run local AI's!
 - IRL Achievements
 - Rain World Trivia
 - PitLink
-5. Savvy-Picker: A website that makes classroom randomised picking fun!
+5. Publisize and write READMEs for all my private repos
+6. Savvy-Picker: A website that makes classroom randomised picking fun!
 
 ## Fun stats
 <div>
