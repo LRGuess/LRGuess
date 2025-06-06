@@ -15,15 +15,14 @@ Learning to create, train, and run local AI's!
 
 ## My Todo list lol
 1. PitLink: A FRC map-based website to connect local FRC teams.
-2. Looking-Through-A-Waffle: A web app that provides satelite images based on coordinates or location...
-3. Rain-World-Trivia: A website for fun rain world trivia!
-4. ----- Get all my web services running:
+2. Rain-World-Trivia: A website for fun rain world trivia!
+3. ----- Get all my web services running:
 - Discord Bots, including Weatherbot and ProSpammist
 - IRL Achievements
 - Rain World Trivia
 - PitLink
-5. Publisize and write READMEs for all my private repos
-6. Savvy-Picker: A website that makes classroom randomised picking fun!
+4. Publisize and write READMEs for all my private repos
+5. Savvy-Picker: A website that makes classroom randomised picking fun!
 
 ## Fun stats
 <div>
